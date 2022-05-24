@@ -34,6 +34,7 @@ Users should be able to:
 ## My process
 
 Similar to the last chalenge of frontendmentor (the nft card), this time i tried to use relative units and have a better structure overall.
+this is a test for github.
 
 ### Built with
 
